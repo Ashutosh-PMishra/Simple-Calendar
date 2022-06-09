@@ -1,8 +1,4 @@
 # Simple-Calendar
+### Calendar using HTML CSS & JavaScript
 
-Python-GUI-Calculator
-An Amazing simple GUI Calculator using Python
-Here is the video link with detailed explanation
-Click me
-
-My YouTube Channel
+[My YouTube Channel](https://www.youtube.com/c/SimplifiedLearner)
